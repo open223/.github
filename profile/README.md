@@ -1,0 +1,1 @@
+Open223 is a collection of permissively-licensed open-source tools to facilitate exploration and usage of the emerging ASHRAE 223P standard. These tools are neither developed nor endorsed by ASHRAE -- instead, they are maintained by a small community of enthusiasts and developers who believe in making RDF data easier to use.
